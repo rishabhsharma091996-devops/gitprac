@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "rh" {
 
-    name = "rish"
+    name = "parshav"
     location = "Westus"
   
 }
